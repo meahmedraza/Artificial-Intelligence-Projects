@@ -51,6 +51,19 @@ The projects explore applications of AI in healthcare, natural language processi
 
 ---
 
+
+### 🗳️ AI EVM (Electronic Voting Machine)
+- AI-powered **Electronic Voting Machine (EVM)** with features:  
+  - Face detection & recognition  
+  - Mask detection  
+  - Person counting  
+- Built with **Django (Python web framework)** for frontend & backend integration.  
+- Models: MobileNetSSD, Haar Cascade, custom-trained face recognition & mask detection models.  
+- Includes live camera integration for real-time monitoring.  
+- [Folder: `AI_EVM-main/`]
+
+---
+
 ## 📄 Documentation
 - `AI Project Proposal.docx` – Initial proposal of project ideas.  
 - `Projects.docx` – Detailed description of AI project plans.  
